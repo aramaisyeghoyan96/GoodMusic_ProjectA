@@ -1,0 +1,9 @@
+From: test@test.com
+Date: Sun, 17 Mar 2024 15:07:27 +0100
+Subject: Confirm your email
+Message-Id: <6P3G3XE6KMU4.HS3VT2TOWRFV@martins_xps15>
+To: demo@seido.se
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+Please confirm your account by <a href='https://localhost:5001/Account/ConfirmEmail?userId=19386405-6b0e-4097-ded7-08dc468b93cf&amp;code=Q2ZESjhOSEk1c1QvVHlOTGhHNkZDdk01NW4xTWFaL1JxQVdnM2dNSm8zSmlHNkxJWHFhZGVjV0tVeStlRnJMekZyTGJGbW5xaGFuVlByRjgyZS8zaVNEMlhGS25vRkwyeSsrRnJndHJ5d2NjdWl3MyszNmZ4MlF3d2NHTzFzelNDcVdKelI5VzFTd2NoWi9SOVVUcy9kN1ZNUDJGcUlEdXRmWTJEVmY4eGs4dGN1TUp4bndWc05kRHRuRThOcStWS1dUbDJKcmtqb0VzelFLQ040QW4rbmFPTW9lODdIcUlXTTRaV1FyZEE3K1J0OEFaakFPc00xRVFMbUNrSnhlYWovRUFnUT09&amp;returnUrl=%2F'>clicking here</a>.
